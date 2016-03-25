@@ -2,10 +2,11 @@
 >###1.目录结构
 >>model目录：用于连接、操作数据库，其中schema文件夹存储mongodb的schema，mongoModel.js为对外暴露接口
 >>proxy目录：用于处理复杂逻辑，使的路由中逻辑更加清晰
+>>settings.js模块，用于存储配置项，如：mongodb配置、redis配置等
 >>util目录：用于存储工具模块
 >>>jsExtend.js模块，用于扩展原生js功能比如：字符串的trim函数
 >>>logHelper.js模块，对log4js进行封装到全局变量中，方便调用
->>settings.js模块，用于存储配置项，如：mongodb配置、redis配置等
+
 >###2.项目说明
 >>a.用mongodb存储数据，用redis存储session实现session，防止重启服务后session丢失
 >>b.用log4js实现错误日志的记录

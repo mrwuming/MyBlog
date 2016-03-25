@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33609f2a-3103-4918-baa6-0b45d038440f" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/util/promiseHelper.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -39,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="378">
-                <caret line="47" column="89" selection-start-line="47" selection-start-column="89" selection-end-line="47" selection-end-column="89" />
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -431,7 +430,7 @@
       <workItem from="1458643885322" duration="2306000" />
       <workItem from="1458692647786" duration="9929000" />
       <workItem from="1458776691708" duration="179000" />
-      <workItem from="1458867735722" duration="34047000" />
+      <workItem from="1458867735722" duration="34149000" />
     </task>
     <task id="LOCAL-00001" summary="修改忽略文件">
       <created>1458906873220</created>
@@ -447,11 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1458907674295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加readme.md说明">
+      <created>1458909373914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458909373914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91039000" />
+    <option name="totallyTimeSpent" value="91141000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -503,7 +509,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改忽略文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改忽略文件" />
+    <MESSAGE value="添加readme.md说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加readme.md说明" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -963,8 +970,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="378">
-            <caret line="47" column="89" selection-start-line="47" selection-start-column="89" selection-end-line="47" selection-end-column="89" />
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
