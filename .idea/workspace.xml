@@ -2,74 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33609f2a-3103-4918-baa6-0b45d038440f" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/default.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/defaultAvatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/css/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/css/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/css/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Blog.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Blog_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/mongoModel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/schema/article.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/schema/connect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/schema/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proxy/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery-1.12.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/css/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/css/wangEditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/css/wangEditor.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/css/wangEditor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/js/lib/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/js/lib/jquery-2.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/js/wangEditor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/wangeditor/js/wangEditor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/articles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/jsExtend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/logHelper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/promiseHelper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/articles/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/articles/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/articles/update.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/include/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/include/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/users/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/users/reg.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/error.ejs" afterPath="$PROJECT_DIR$/views/error.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/users.js" afterPath="$PROJECT_DIR$/routes/users.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/users/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -138,19 +82,6 @@
             <state relative-caret-position="270">
               <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/include/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
-              <folding>
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -223,7 +154,6 @@
         <option value="$PROJECT_DIR$/proxy/article.js" />
         <option value="$PROJECT_DIR$/model/mongoModel.js" />
         <option value="$PROJECT_DIR$/util/logHelper.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/routes/upload.js" />
         <option value="$PROJECT_DIR$/model/schema/comment.js" />
         <option value="$PROJECT_DIR$/model/schema/user.js" />
@@ -246,6 +176,7 @@
         <option value="$PROJECT_DIR$/views/users/reg.html" />
         <option value="$PROJECT_DIR$/proxy/user.js" />
         <option value="$PROJECT_DIR$/views/users/login.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -461,12 +392,12 @@
       <workItem from="1458643885322" duration="2306000" />
       <workItem from="1458692647786" duration="9929000" />
       <workItem from="1458776691708" duration="179000" />
-      <workItem from="1458867735722" duration="31366000" />
+      <workItem from="1458867735722" duration="31561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88358000" />
+    <option name="totallyTimeSpent" value="88553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,9 +412,9 @@
     <frame x="960" y="52" width="960" height="1028" extended-state="4" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32017544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32017544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35870698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -650,14 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="7785" column="0" selection-start-line="7785" selection-start-column="0" selection-end-line="7785" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -976,6 +899,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
