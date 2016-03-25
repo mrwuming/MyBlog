@@ -38,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="322">
-                <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+              <first_editor relative-caret-position="376">
+                <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -430,7 +430,7 @@
       <workItem from="1458643885322" duration="2306000" />
       <workItem from="1458692647786" duration="9929000" />
       <workItem from="1458776691708" duration="179000" />
-      <workItem from="1458867735722" duration="34558000" />
+      <workItem from="1458867735722" duration="34645000" />
     </task>
     <task id="LOCAL-00001" summary="修改忽略文件">
       <created>1458906873220</created>
@@ -488,11 +488,18 @@
       <option name="project" value="LOCAL" />
       <updated>1458909752552</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加readme.md说明">
+      <created>1458909857894</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1458909857894</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91550000" />
+    <option name="totallyTimeSpent" value="91637000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1005,8 +1012,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="322">
-            <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+          <first_editor relative-caret-position="376">
+            <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
             <folding />
           </first_editor>
           <second_editor />
