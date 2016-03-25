@@ -4,7 +4,7 @@
 >>proxy目录：用于处理复杂逻辑，使的路由中逻辑更加清晰
 >>settings.js模块，用于存储配置项，如：mongodb配置、redis配置等
 >>util目录：用于存储工具模块
->>>jsExtend.js模块，用于扩展原生js功能比如：字符串的trim函数
+>>>jsExtend.js模块，用于扩展原生js功能比如：字符串的trim函数<br />
 >>>logHelper.js模块，对log4js进行封装到全局变量中，方便调用
 
 >###2.项目说明
