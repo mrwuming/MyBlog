@@ -1,0 +1,85 @@
+<% var title="注册";%>
+<% include ../include/header.html%>
+<form class="form-horizontal">
+    <div class="form-group">
+        <label for="username" class="col-sm-2 control-label">用户名：</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="username" name="username" placeholder="请输入用户名">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="pwd" class="col-sm-2 control-label">邮箱：</label>
+        <div class="col-sm-10">
+            <input type="password" class="form-control" name="email" id="email" placeholder="请输入邮箱">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="pwd" class="col-sm-2 control-label">密码：</label>
+        <div class="col-sm-10">
+            <input type="password" class="form-control" name="pwd" id="pwd" placeholder="请输入密码">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="pwd2" class="col-sm-2 control-label">确认密码：</label>
+        <div class="col-sm-10">
+            <input type="password" class="form-control" id="pwd2" name="pwd2" placeholder="请输入确认密码">
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button type="button" class="btn btn-default" id="regBtn">注 册</button>
+            <button type="button" class="btn btn-default" id="resetBtn">重 置</button>
+        </div>
+    </div>
+</form>
+<% include ../include/footer.html%>
+<script type="text/javascript">
+    $("#resetBtn").click(function () {
+        $("#username").val("");
+        $("#pwd").val("");
+        $("#pwd2").val("");
+        $("#username").focus();
+    });
+    $("#regBtn").click(function () {
+        var userName = $("#username").val().trim();
+        var pwd = $("#pwd").val().trim();
+        var pwd2 = $("#pwd2").val().trim();
+        var email = $("#email").val().trim();
+        if (!checkUserName(userName)) {
+            showError("请输入正确的用户名");
+            $("#username").focus();
+            return false;
+        }
+        var myreg = /^([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+\.[a-zA-Z]{2,3}$/;
+        if (!myreg.test(email)) {
+            showError('请输入有效的邮箱');
+            $("#email").focus();
+            return false;
+        }
+        if (!checkPwd(pwd)) {
+            showError("请输入正确的密码");
+            $("#pwd").focus();
+            return false;
+        }
+        if (pwd !== pwd2) {
+            showError("确认密码与密码不一致");
+            $("#pwd2").focus();
+            return false;
+        }
+        var postData = {username: userName, pwd: pwd, pwd2: pwd2,email:email};
+        $.ajax({
+            type: 'POST',
+            url: "/users/reg",
+            data: postData,
+            success: function (data) {
+                if (data.code === 0) {
+                    window.location.href = "/";
+                } else {
+                    showError(data.msg);
+                }
+            },
+            dataType: "json"
+        });
+        return;
+    });
+</script>
