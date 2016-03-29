@@ -48,6 +48,6 @@ app.use(function (req, res, next) {
 >###3.环境说明
 >>redis版本：3.x  
 >>mongodb版本：3.x  
->###3.配置说明
+>###4.配置说明
 >>启动程序前先要在setting.js中配置好mongodb和redis并将二者启动，  
 到程序目录执行npm install命令安装依赖包后即可启动bin/www，端口为3000
