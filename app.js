@@ -69,7 +69,6 @@ app.use(function(req,res,next){
 app.use(function (req, res, next) {
     var requestPath=req.path;
     if(!req.session){
-        console.log("session为空，请检查redis是否启动");
         global.writeErr("session为空，请检查redis是否启动");
     }
     if(req.session.isLogin){
